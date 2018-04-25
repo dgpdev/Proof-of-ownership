@@ -43,3 +43,7 @@ Eversince, the digipulse dudes got silent. Now and then i had a brief communicat
 
 ![Alt text](https://monosnap.com/image/R5V9uQYElnFkbIgz192glb1OJUrG71.png)
 
+I've been granted the intellectual and authors rights regarding the code in mean time.
+The only step left is to sue them, since they refuse to handle it like gentleman and forcing me to go public with this.
+
+You can read my claims in the PDF file in this very repo. It's dutch, but feel free to google translate it ;-)
