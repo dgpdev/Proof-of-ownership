@@ -13,8 +13,9 @@ Here is the proof that the owner (digipulse) **did manage to burn 150 tokens** t
 https://etherscan.io/tx/0x576952f1a3d117b411f8a428817e28adb6c48b423a293b6b2c2dc57ade36a604
 
 or
-
 https://ethplorer.io/address/0x83d0aa2292efd8475df241fba42fe137da008d79
+
+
 ----
 
 As you can see, the contract is capable of burning tokens, but what is wrong at this point?
